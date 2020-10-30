@@ -1,0 +1,12 @@
+{
+  "name": "shortlink",
+  "displayName": "shortlink",
+  "expo": {
+    "name": "shortlink",
+    "slug": "shortlink",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
